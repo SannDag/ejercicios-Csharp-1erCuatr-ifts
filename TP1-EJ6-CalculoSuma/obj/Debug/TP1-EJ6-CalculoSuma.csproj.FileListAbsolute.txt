@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ6-CalculoSuma\bin\Debug\TP1-EJ6-CalculoSuma.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ6-CalculoSuma\bin\Debug\TP1-EJ6-CalculoSuma.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ6-CalculoSuma\bin\Debug\TP1-EJ6-CalculoSuma.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ6-CalculoSuma\obj\Debug\TP1-EJ6-CalculoSuma.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ6-CalculoSuma\obj\Debug\TP1-EJ6-CalculoSuma.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ6-CalculoSuma\obj\Debug\TP1-EJ6-CalculoSuma.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ6-CalculoSuma\obj\Debug\TP1-EJ6-CalculoSuma.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ5-Fibonacci\bin\Debug\TP1-EJ5-Fibonacci.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ5-Fibonacci\bin\Debug\TP1-EJ5-Fibonacci.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ5-Fibonacci\bin\Debug\TP1-EJ5-Fibonacci.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ5-Fibonacci\obj\Debug\TP1-EJ5-Fibonacci.csproj.AssemblyReference.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ5-Fibonacci\obj\Debug\TP1-EJ5-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ5-Fibonacci\obj\Debug\TP1-EJ5-Fibonacci.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ5-Fibonacci\obj\Debug\TP1-EJ5-Fibonacci.pdb

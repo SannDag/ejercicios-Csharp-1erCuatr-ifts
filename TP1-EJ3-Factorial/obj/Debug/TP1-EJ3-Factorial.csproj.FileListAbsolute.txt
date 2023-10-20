@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ3-Factorial\bin\Debug\TP1-EJ3-Factorial.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ3-Factorial\bin\Debug\TP1-EJ3-Factorial.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ3-Factorial\bin\Debug\TP1-EJ3-Factorial.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ3-Factorial\obj\Debug\TP1-EJ3-Factorial.csproj.AssemblyReference.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ3-Factorial\obj\Debug\TP1-EJ3-Factorial.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ3-Factorial\obj\Debug\TP1-EJ3-Factorial.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ3-Factorial\obj\Debug\TP1-EJ3-Factorial.pdb

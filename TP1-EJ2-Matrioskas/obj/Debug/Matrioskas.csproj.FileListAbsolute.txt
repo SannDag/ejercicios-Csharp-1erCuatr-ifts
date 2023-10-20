@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Matrioskas\bin\Debug\Matrioskas.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Matrioskas\bin\Debug\Matrioskas.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Matrioskas\bin\Debug\Matrioskas.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Matrioskas\obj\Debug\Matrioskas.csproj.AssemblyReference.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Matrioskas\obj\Debug\Matrioskas.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Matrioskas\obj\Debug\Matrioskas.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Matrioskas\obj\Debug\Matrioskas.pdb

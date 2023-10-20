@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ1-TorresDeHanoi\obj\Debug\TP1-EJ1-TorresDeHanoi.csproj.AssemblyReference.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ1-TorresDeHanoi\obj\Debug\TP1-EJ1-TorresDeHanoi.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ1-TorresDeHanoi\bin\Debug\TP1-EJ1-TorresDeHanoi.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ1-TorresDeHanoi\bin\Debug\TP1-EJ1-TorresDeHanoi.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ1-TorresDeHanoi\bin\Debug\TP1-EJ1-TorresDeHanoi.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ1-TorresDeHanoi\obj\Debug\TP1-EJ1-TorresDeHanoi.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\TP1-EJ1-TorresDeHanoi\obj\Debug\TP1-EJ1-TorresDeHanoi.pdb
