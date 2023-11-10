@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache

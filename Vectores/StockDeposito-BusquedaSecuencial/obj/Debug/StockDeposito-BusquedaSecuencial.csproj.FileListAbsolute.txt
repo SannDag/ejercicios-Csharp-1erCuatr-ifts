@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\StockDeposito-BusquedaSecuencial\bin\Debug\StockDeposito-BusquedaSecuencial.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\StockDeposito-BusquedaSecuencial\bin\Debug\StockDeposito-BusquedaSecuencial.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\StockDeposito-BusquedaSecuencial\bin\Debug\StockDeposito-BusquedaSecuencial.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\StockDeposito-BusquedaSecuencial\obj\Debug\StockDeposito-BusquedaSecuencial.csproj.AssemblyReference.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\StockDeposito-BusquedaSecuencial\obj\Debug\StockDeposito-BusquedaSecuencial.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\StockDeposito-BusquedaSecuencial\obj\Debug\StockDeposito-BusquedaSecuencial.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\StockDeposito-BusquedaSecuencial\obj\Debug\StockDeposito-BusquedaSecuencial.pdb

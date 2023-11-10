@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Vector8Elementos\bin\Debug\Vector8Elementos.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Vector8Elementos\bin\Debug\Vector8Elementos.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Vector8Elementos\bin\Debug\Vector8Elementos.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Vector8Elementos\obj\Debug\Vector8Elementos.csproj.AssemblyReference.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Vector8Elementos\obj\Debug\Vector8Elementos.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Vector8Elementos\obj\Debug\Vector8Elementos.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\Vector8Elementos\obj\Debug\Vector8Elementos.pdb

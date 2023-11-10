@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\SueldoEmpleado\obj\Debug\SueldoEmpleado.csproj.AssemblyReference.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\SueldoEmpleado\obj\Debug\SueldoEmpleado.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\SueldoEmpleado\bin\Debug\SueldoEmpleado.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\SueldoEmpleado\bin\Debug\SueldoEmpleado.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\SueldoEmpleado\bin\Debug\SueldoEmpleado.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\SueldoEmpleado\obj\Debug\SueldoEmpleado.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\SueldoEmpleado\obj\Debug\SueldoEmpleado.pdb

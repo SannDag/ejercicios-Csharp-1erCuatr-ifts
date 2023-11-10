@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\VectoresPositivosNegativos\bin\Debug\VectoresPositivosNegativos.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\VectoresPositivosNegativos\bin\Debug\VectoresPositivosNegativos.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\VectoresPositivosNegativos\bin\Debug\VectoresPositivosNegativos.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\VectoresPositivosNegativos\obj\Debug\VectoresPositivosNegativos.csproj.AssemblyReference.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\VectoresPositivosNegativos\obj\Debug\VectoresPositivosNegativos.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\VectoresPositivosNegativos\obj\Debug\VectoresPositivosNegativos.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\Vectores\VectoresPositivosNegativos\obj\Debug\VectoresPositivosNegativos.pdb
