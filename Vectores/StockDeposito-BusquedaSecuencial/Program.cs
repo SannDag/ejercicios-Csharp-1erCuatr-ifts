@@ -23,7 +23,7 @@ namespace StockDeposito_BusquedaSecuencial
     {
         static void Main(string[] args)
         {
-            int i, codigo, cap = 3, cantidad = 0, indice;
+            int i, codigo, cap = 50, cantidad = 0, indice;
             char op;
             int[] cod = new int[cap];
             int[] stock = new int[cap];
@@ -40,14 +40,14 @@ namespace StockDeposito_BusquedaSecuencial
 
             Console.WriteLine("Datos ingresados hasta el momento:");
             Console.WriteLine("Codigos:");
-            for (i = 0; i < 3; i++)
+            for (i = 0; i < cap; i++)
             {
                 Console.Write(cod[i] + " ");                
             }
             Console.WriteLine("\n ");
 
             Console.WriteLine("Stock:");
-            for (i = 0; i < 3; i++)
+            for (i = 0; i < cap; i++)
             {
                 Console.Write(stock[i] + " ");
             }
