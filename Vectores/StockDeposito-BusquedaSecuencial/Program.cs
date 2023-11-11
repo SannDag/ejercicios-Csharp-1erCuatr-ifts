@@ -111,7 +111,7 @@ namespace StockDeposito_BusquedaSecuencial
                 codigo = int.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("Me voy antes del for");
+            
             //Informe de los Vectores
             for (i = 0; i < cap; i++)
             {
