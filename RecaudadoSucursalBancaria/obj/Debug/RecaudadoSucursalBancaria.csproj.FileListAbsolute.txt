@@ -1,0 +1,7 @@
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\RecaudadoSucursalBancaria\bin\Debug\RecaudadoSucursalBancaria.exe.config
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\RecaudadoSucursalBancaria\bin\Debug\RecaudadoSucursalBancaria.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\RecaudadoSucursalBancaria\bin\Debug\RecaudadoSucursalBancaria.pdb
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\RecaudadoSucursalBancaria\obj\Debug\RecaudadoSucursalBancaria.csproj.AssemblyReference.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\RecaudadoSucursalBancaria\obj\Debug\RecaudadoSucursalBancaria.csproj.CoreCompileInputs.cache
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\RecaudadoSucursalBancaria\obj\Debug\RecaudadoSucursalBancaria.exe
+C:\Santi\IFTS\1er Cuatr\Tec de Programación\ejercicios-visualstudio-1erCuatri\RecaudadoSucursalBancaria\obj\Debug\RecaudadoSucursalBancaria.pdb
