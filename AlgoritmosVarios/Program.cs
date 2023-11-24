@@ -11,38 +11,54 @@ namespace AlgoritmosVarios
         static void Main(string[] args)
         {
 
+            //Llamar para indicar que valores queremos en el array
+            //recorridoArray();
+
+            //Llamar para inicializar un array con todos sus valores en 0
+            //inicializarArrayEn0();
+
+            //Algoritmo que verifica si hay espacio en el array para insertar un nuevo valor dicho por nosotros previamente.
+            //actualizacionArray();
+
+            //Llamar para generar nuevo array
+            //generarNuevoArray();
+
+            //Llamar para identificar el valor maximo de un array ya declarado, y en que posición se encuentra.
+            //maximo();
+            
+            //Otra forma de encontrar el maximo en un vector
+            //maximo2();
+
 
 
         }
 
         static void recorridoArray()
 
-        //estructura repetitiva. Variable se usa como índice del array.
+        //Estructura repetitiva. Variable se usa como índice del array.
         {
-            int i;
+            int i, capArray = 5;
             string linea;
-            float[] temperatura = new float[7];
+            float[] temperatura = new float[capArray];
 
             //Recorre el array para asignar el valor de cada posición
-            for (i = 0; i < 7; i++)
+            for (i = 0; i < capArray; i++)
             {
-                Console.WriteLine("Introduzca el valo" + i + "del array");
+                Console.WriteLine("Introduzca el valor a agregar al array");
                 linea = Console.ReadLine();
                 temperatura[i] = float.Parse(linea);
             }
             //Recorre el array para mostrar el valor de cada posición
-            for (i = 0; i < 7; i++)
+            for (i = 0; i < capArray; i++)
             {
                 Console.WriteLine("Temperatura:" + temperatura[i]);
             }
+
+            Console.ReadKey();
         }
 
-        static void inicializar()
+        static void inicializarArrayEn0()
         {
-
-            //Consiste en agregar un nuevo elemento al final del array.
-
-            //asignación a cada posición de un valor.
 
             int i;
             float[] temperatura = new float[7];
@@ -51,10 +67,20 @@ namespace AlgoritmosVarios
             {
                 temperatura[i] = 0;
             }
+
+            //mostramos el array generado
+            for (i = 0; i < 7; i++)
+            {                
+                Console.WriteLine(temperatura[i]);
+            }
+
+            Console.ReadKey();
         }
 
-        static void actualizacion()
+        static void actualizacionArray()
         {
+
+            //Actualización de array existente trabajando con un while y verificando que todavía quede lugar para insertar valor.
             int i, pos;
             string[] alumnos = new string[10];
             pos = 0;
@@ -63,6 +89,15 @@ namespace AlgoritmosVarios
             alumnos[2] = "Pedro";
             alumnos[3] = "Ana";
             alumnos[4] = "Lara";
+
+            //Muestro array antes de asignar valor nuevo:
+            for (i = 0; i < 10; i++)
+            {
+                Console.WriteLine("[" + i + "]" + alumnos[i]);
+            }
+
+            Console.WriteLine("\n");
+
             while (alumnos[pos] != null && pos < 10)
             {
                 pos++;
@@ -79,6 +114,8 @@ namespace AlgoritmosVarios
             {
                 Console.WriteLine("[" + i + "]" + alumnos[i]);
             }
+
+            Console.ReadKey();
         }
 
         static void generarNuevoArray()
@@ -86,24 +123,26 @@ namespace AlgoritmosVarios
 
             //Consiste en crear un nuevo array, a partir de uno ya existente con alguno de los datos contenidos en el primero, todos o ninguno.
 
-            int[] valores = new int[10]; //vector original
-            int[] positivos = new int[10]; //vector nuevo
+            int[] arrayOriginal = new int[10]; //vector original
+            int[] nuevoArray = new int[10]; //vector nuevo
             int i, c; // c-> Variable controladora nuevo vector
             string linea;
-            // Cargar datos
+
+            // Primer array, cargar datos:
             for (i = 0; i < 10; i++)
             {
                 Console.Write("Ingrese un numero entero:");
                 linea = Console.ReadLine();
-                valores[i] = int.Parse(linea);
+                arrayOriginal[i] = int.Parse(linea);
             }
+
             // Generar nuevo vector
             c = 0; // Inicializar la variable en cero para la 1ra posición
             for (i = 0; i < 10; i++)
             {
-                if (valores[i] > 0)
+                if (arrayOriginal[i] > 0)
                 {
-                    positivos[c] = valores[i];
+                    nuevoArray[c] = arrayOriginal[i];
                     c++; //Se debe incrementar para que cambie de posición//
                 }
             }
@@ -113,23 +152,21 @@ namespace AlgoritmosVarios
                 Console.WriteLine("No se genero el nuevo vector");
             else
             {
-                Console.WriteLine("El vector de positivos es: ");
+                Console.WriteLine("El nuevo vector copiado del original es: ");
                 for (i = 0; i < c; i++)
                 {
-                    Console.WriteLine(positivos[i]);
+                    Console.Write(nuevoArray[i] + " ");
                 }
             }
             Console.ReadKey();
         }
 
-        static void maximoMinimo()
+        static void maximo()
         {
-
-            int capArray = 10;
             int i, tempMax = 0, posMax = 1;
             int[] temperatura = new int[] { 40, 35, 29, 31, 25, 28 };
 
-            for (i = 0; i < capArray - 1; i++)
+            for (i = 0; i < 6; i++)
             {
                 if (temperatura[i] > tempMax)
                 {
@@ -138,23 +175,34 @@ namespace AlgoritmosVarios
                 }
             }
 
-            Console.WriteLine("La temperatura maxima de la semana fue: ", tempMax);
+            Console.WriteLine("La temperatura maxima de la semana fue: {0}, en la posición: {1}", tempMax, posMax + 1);
 
+            Console.ReadKey();
         }
 
-        static void maximoMinimo2()
+        static void maximo2()
         {
-            int[] datos = { 10, 15, 12, 0, 0 };
-            int capacidad = 5; // Capacidad maxima del array
-            int cantidad = 3; // Número real de datos guardados
+            int[] datos = { 10, 15, 31, 0, 0, 6, 11};
+            int capacidad = 7; // Capacidad maxima del array
             int i; // Para recorrer los elementos
 
-            // Buscamos el máximo
-            int maximo = datos[0];
-            for (i = 1; i < cantidad; i++)
+            //Muestro array:
+            for (i = 0; i < capacidad; i++)
+            {
+                Console.Write(datos[i] + " ");
+            }
+
+                // Buscamos el máximo
+                int maximo = datos[0];
+            for (i = 1; i < capacidad; i++)
+            {
                 if (datos[i] > maximo)
                     maximo = datos[i];
+            }
+                
             Console.WriteLine("El máximo es {0} ", maximo);
+
+            Console.ReadKey();
         }
 
         static void actualizacionBorrarElemento()
@@ -280,22 +328,91 @@ namespace AlgoritmosVarios
             return -1;        
         }
 
-        static void bubbleSort(int[] array)
+        static void busqueda3(int numSuc, int[] sucursales, float[] totalRecaudado, float dineroRecaudadoDia)
         {
-            int i, cap = 5, aux;
+            int cap = 3, k, i;
+            k = 0;
+            i = 0;
 
-            for (i = 0; i < cap; i++)
+            while (k == 0 && i < cap)
             {
-                for (int j = 0; j < cap - 1 - i; j++)
+                if (numSuc == sucursales[i])
                 {
-                    if (array[i] > array[j + 1])
+                    k = 1;
+                }
+                else
+                {
+                    i++;
+                }
+            }
+
+            if (k == 0)
+            {
+                Console.WriteLine("Numero de sucursal inexistente");
+            }
+            else
+            {
+                Console.WriteLine("Total recaudado antes de actualizar: {0}", totalRecaudado[i]);
+                totalRecaudado[i] += dineroRecaudadoDia;
+                Console.WriteLine("Se actualiza total recaudado: {0}", totalRecaudado[i] + "\n");
+            }
+
+        }
+
+        static void ordenamiento(int[] sucursales, float[] totalRecaudado)
+        {
+            int i, k, x, capArray=3, aux1;
+            float aux2;
+
+            k = 0;
+            x = 3;
+            while (k == 0)
+            {
+                k = 1;
+                x--;
+
+                for (i = 0; i < x; i++)
+                {
+                    if (sucursales[i] < sucursales[i + 1])
                     {
-                        aux = array[j];
-                        array[j] = array[j + 1];
-                        array[j + 1] = aux;
+                        k = 0;
+                        aux1 = sucursales[i];
+                        sucursales[i] = sucursales[i + 1];
+                        sucursales[i + 1] = aux1;
+
+                        aux2 = totalRecaudado[i];
+                        totalRecaudado[i] = totalRecaudado[i + 1];
+                        totalRecaudado[i + 1] = aux2;
                     }
                 }
             }
+
+            //informe vector ordenado
+            for (i = 0; i < capArray; i++)
+            {
+                Console.WriteLine("N° Sucursal: " + sucursales[i]);
+                Console.WriteLine("Total Recaudado: " + totalRecaudado[i]);
+            }
+            Console.WriteLine("\n");
         }
+
+        //NO USAR
+        //static void bubbleSort(int[] array)
+        //{
+        //    int i, cap = 5, aux;
+
+        //    for (i = 0; i < cap; i++)
+        //    {
+        //        for (int j = 0; j < cap - 1 - i; j++)
+        //        {
+        //            if (array[i] > array[j + 1])
+        //            {
+        //                aux = array[j];
+        //                array[j] = array[j + 1];
+        //                array[j + 1] = aux;
+        //            }
+        //        }
+        //    }
+        //}
     }
 }

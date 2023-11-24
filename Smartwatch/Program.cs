@@ -39,7 +39,7 @@ namespace Smartwatch
             int pulsaciones, pasos, minutoActividad = 0, minutoSuenio = 0, totalRitmoCardiaco = 0, totalPasos = 0, maxRitmoC = 0, minuto = 0, contador = 0, band = 0;
             double promedioRitmoC;
 
-            for (int i = 1; i < 61; i++)
+            for (int i = 1; i < 3; i++)
             {
                 contador++;
 
